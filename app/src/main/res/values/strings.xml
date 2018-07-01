@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">EasyJournal</string>
+    <string name="app_name">VJournal</string>
     <string name="app_slogan">every event counts</string>
     <string name="google_sign_in">Sign up with Google Account</string>
     <string name="lbl_event_description">Description</string>
